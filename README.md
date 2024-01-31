@@ -1,9 +1,9 @@
 ### Frode Evensen, aka. _Gakk_ 👋
 
-I am a system developer in my 40's responsible for mobile solutions in the public safety sector at [Locus Solutions AS](https://github.com/LocusSolutions), where I have worked since 2005. Primary task is planning and developing map, navigation and incident support systems for health and fire services - both on land, in air and on water 🚑 🚒 🚁
+I am a system developer in my mid 40's working in the health care sector at [DNV Imatis AS](https://dnvimatis.com).
 
-* Daily: [GitHub](https://github.com/Gakk), `Visual Studio`, `C#`, `WPF`/`XAML` and `Xamarin`
-* Often: `SQL`, `HTML` and `CSS`
+* Daily: Azure DevOps, `Visual Studio`, `VS Code`, `C#`
+* Often: GitHub, `WPF`/`XAML`, `Xamarin`, `SQL`, `HTML` and `CSS`
 * Rarely: `C++`, `JavaScript`
 
 ### You can also find me at:
