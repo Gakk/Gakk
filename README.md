@@ -2,9 +2,9 @@
 
 I am a system developer in my mid 40's working in the health care sector at [DNV Imatis AS](https://dnvimatis.com).
 
-* Daily: Azure DevOps, `Visual Studio`, `VS Code`, `C#`
-* Often: GitHub, `WPF`/`XAML`, `Xamarin`, `SQL`, `HTML` and `CSS`
-* Rarely: `C++`, `JavaScript`
+* Daily: Azure DevOps, `Rider`, `Visual Studio`, `VS Code`, `C#`
+* Often: GitHub, `SQL`, `HTML` and `CSS`
+* Previously/rarely: `WPF`/`XAML`, `Xamarin`, `C++`, `JavaScript`
 
 ### You can also find me at:
 <a href="https://stackoverflow.com/users/146921/frode-evensen?tab=profile" target="blank"><img src="https://github.com/Gakk/Gakk/blob/main/images/stackoverflow.png" alt="StackOverflow" height="30" /></a>
