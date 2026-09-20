@@ -1,9 +1,9 @@
 ### Frode Evensen, aka. _Gakk_ 👋
 
-I am a system developer in my mid 40's working in the health care sector at [DNV Imatis AS](https://dnvimatis.com).
+I am a Security Architect, with background as System Developer, in my mid 40's working in the health care sector at [DNV Imatis AS](https://dnvimatis.com).
 
-* Daily: Azure DevOps, `Rider`, `Visual Studio`, `VS Code`, `C#`
-* Often: GitHub, `SQL`, `HTML` and `CSS`
+* Daily: `Azure DevOps`, `Copilot`, `Rider`
+* Often: `Burp Suite`, `GitHub`, `Visual Studio`, `VS Code`, `C#`, `SQL`, `HTML` and `CSS`
 * Previously/rarely: `WPF`/`XAML`, `Xamarin`, `C++`, `JavaScript`
 
 ### You can also find me at:
